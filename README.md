@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on infobank
 - 🌱 I’m currently learning Vue.js and MSA
-- hhhi
 <!-- 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
