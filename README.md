@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on infobank
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS and JPA
 <!-- 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
