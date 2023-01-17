@@ -10,8 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infitry&show_icons=true&theme=merko)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infitry&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infitry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
